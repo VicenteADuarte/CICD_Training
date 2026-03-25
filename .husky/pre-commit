@@ -1,0 +1,2 @@
+# Run lint staged defined in package.json
+npx lint-staged
