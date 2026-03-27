@@ -44,4 +44,3 @@ module.exports = {
   },
   ignorePatterns: ['dist/', 'node_modules/', 'playwright-report/', 'test-results/'],
 };
- 
